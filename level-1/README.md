@@ -4,6 +4,7 @@
 - STLs 1
 	 - Vector, pair, struct, map
 - frequency array (vector + map)
+
 sheet: [sheet 1](https://codeforces.com/group/c3FDl9EUi9/contest/262795) + [Practice](https://codeforces.com/group/u3Ii79X3NY/contest/270254)
 
 # Week 2
@@ -17,6 +18,7 @@ sheet: [sheet 1](https://codeforces.com/group/c3FDl9EUi9/contest/262795) + [Prac
 	- binary_search
 	- lower_bound
 	- upper_bound
+ 
 Sheets: [Sheets 2](https://codeforces.com/group/c3FDl9EUi9/contest/263096) + [Practice](https://codeforces.com/group/u3Ii79X3NY/contest/270796)
 
 # Week 3
@@ -28,6 +30,7 @@ Sheets: [Sheets 2](https://codeforces.com/group/c3FDl9EUi9/contest/263096) + [Pr
 - Coordinate Compression 
 - Sort function
 - Compare function
+
 Sheets: [Sheet 3](https://codeforces.com/group/c3FDl9EUi9/contest/263722) + [Practice](https://codeforces.com/group/u3Ii79X3NY/contest/272220)
 
 # Week 4
@@ -37,6 +40,7 @@ Sheets: [Sheet 3](https://codeforces.com/group/c3FDl9EUi9/contest/263722) + [Pra
 	- Motonic function
 	- how to implement lower bound and upperbound yourself
 - Two pointers
+
 Sheets: [Sheet 4](https://codeforces.com/group/c3FDl9EUi9/contest/264941) + [Practice](https://codeforces.com/group/u3Ii79X3NY/contest/272628) + [ITMO 1](https://codeforces.com/edu/course/2/lesson/6/1/practice) + [ITMO 2](https://codeforces.com/edu/course/2/lesson/6/2/practice)
 
 
@@ -44,6 +48,7 @@ Sheets: [Sheet 4](https://codeforces.com/group/c3FDl9EUi9/contest/264941) + [Pra
 - bit manipulation
 - bitmasking
 - bitset
+  
 Sheets: [Sheet 5](https://codeforces.com/group/c3FDl9EUi9/contest/267312) + [Practice](https://codeforces.com/group/u3Ii79X3NY/contest/274952)
 
 # Week 6
@@ -57,6 +62,7 @@ Sheets: [Sheet 5](https://codeforces.com/group/c3FDl9EUi9/contest/267312) + [Pra
 	- Is tringle or not
 	- tringle area with its points (Heron's formula)
 	- three points on a straight line or not
+   
 sheets: [Sheet](https://codeforces.com/group/MWSDmqGsZm/contest/223338)
 
 # Week 7 
@@ -66,6 +72,7 @@ sheets: [Sheet](https://codeforces.com/group/MWSDmqGsZm/contest/223338)
 		- next_permutation
 	- Combinations
 		- npr ncr
+    
 sheets: [Sheet 6](https://vjudge.net/contest/431685)
 
 # Week 8 
