@@ -67,7 +67,7 @@ sheets: [Sheet](https://codeforces.com/group/MWSDmqGsZm/contest/223338)
 
 # Week 7 
 - Number theory 2
-	- Seive
+	- Sieve
 	- Premutaions
 		- next_permutation
 	- Combinations
