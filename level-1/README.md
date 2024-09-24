@@ -1,4 +1,4 @@
-# Week 1 
+# Week 1
 - Complexity Analysis
 - prefix sum + partial sum 
 - STLs 1
