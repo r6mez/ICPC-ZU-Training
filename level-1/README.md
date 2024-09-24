@@ -23,8 +23,8 @@ Sheets: [Sheets 2](https://codeforces.com/group/c3FDl9EUi9/contest/263096) + [Pr
 
 # Week 3
 - STLs 3
-	- Set o(logn)
-	- unordered Set 
+	- Set
+	- unordered_Set
 	- Map
 	- unordered map
 - Coordinate Compression 
@@ -36,7 +36,7 @@ Sheets: [Sheet 3](https://codeforces.com/group/c3FDl9EUi9/contest/263722) + [Pra
 # Week 4
 - Binary search
 	- On array 
-	- On numbers (int and doubles)
+	- On numbers (int and double)
 	- Motonic function
 	- how to implement lower bound and upperbound yourself
 - Two pointers
